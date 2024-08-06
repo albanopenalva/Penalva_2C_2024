@@ -5,6 +5,11 @@ y está basada en el módulo [ESP32-C6-DevKitC-1](https://docs.espressif.com/pro
 
 ![git](./imágenes/esp-edu_pinout.png)
 
+## ESP-EDU
+
+* [Esquemático](https://drive.google.com/file/d/1sZ-SWgP6ta2HMofIuosfcoaAoxpnm3gE/view?usp=sharing)
+* [PCB](https://htmlpreview.github.io/?https://github.com/albanopenalva/Penalva_2C_2024/blob/main/documentaci%C3%B3n/ESP-EDU_ibom.html)
+
 ## Características
 
 * Procesador: 1 núcleo RISC-V 32-bit (hasta 160MHz)
